@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"ConvertToUTF8",
+		"Djaneiro",
+		"Emmet",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeGit",
+		"SublimeREPL",
+		"SyncedSidebarBg",
+		"Tag",
+		"Theme - Flatland",
+		"Theme - Spacegray",
+		"TrailingSpaces",
+		"WordCount"
+	]
+}

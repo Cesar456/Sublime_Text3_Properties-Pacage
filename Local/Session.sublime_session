@@ -1,0 +1,411 @@
+{
+	"folder_history":
+	[
+		"/C/wamp64/www/front",
+		"/C/wamp64/www/front/program",
+		"/C/Users/fubai/Documents/subl work"
+	],
+	"last_version": 3126,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/Application/Common/Conf/config.php",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/Application/index.html",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/Application/README.md",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/index.php",
+				"/C/Users/fubai/Desktop/自贸区/李岩/李岩-自贸区/来源分布.html",
+				"/C/Users/fubai/Desktop/自贸区/李岩/李岩-自贸区/source.js",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/README.md",
+				"/C/Python27/Lib/site-packages/lxml/etree.pyd",
+				"/C/Users/fubai/Desktop/requiremrnt.txt",
+				"/D/mysql-5.6/my-default.ini"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "git",
+				"selected_items":
+				[
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"intsa",
+						"Package Control: Install Package"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/wamp64/www/front"
+			],
+			"file_history":
+			[
+				"/C/wamp64/www/front/program/zimaoqu/Home/Model/UserModel.class.php",
+				"/C/wamp64/www/front/program/zimaoqu/Home/Controller/UserController.class.php",
+				"/C/wamp64/www/front/program/zimaoqu/Home/View/Index/tools.html",
+				"/C/wamp64/www/front/program/zimaoqu/Home/Controller/IndexController.class.php",
+				"/C/Users/fubai/Documents/subl work/自贸区项目要求.md",
+				"/C/wamp64/www/front/program/zimaoqu/Home/View/Index/hotpot.html",
+				"/D/IDEA/MybatiesGenerater/config.properties",
+				"/D/IDEA/MybatiesGenerater/mybatis-generator.xml",
+				"/C/Users/fubai/Desktop/中纪委-企业-sql.xlsx",
+				"/C/Users/fubai/Desktop/中纪委-企业-sql.txt",
+				"/C/Users/fubai/Desktop/test.sql",
+				"/C/Users/fubai/Documents/subl work/待办事项.md",
+				"/C/Users/fubai/Documents/subl work/反腐 统计sql语句.sql",
+				"/C/Users/fubai/Desktop/result.csv",
+				"/C/Users/fubai/Documents/subl work/sql 反腐.sql",
+				"/C/Users/fubai/Documents/subl work/sql 反腐",
+				"/C/Users/fubai/Desktop/users.sql",
+				"/H/源代码/myeclipse10Workspace/ZhiHuCrawer/src/Cesar/BS/ContentService.java",
+				"/H/源代码/myeclipse10Workspace/ZhiHuCrawer/src/Cesar/DAO/ContentDAO.java",
+				"/C/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.2.4/bin/idea64.exe.vmoptions",
+				"/C/Users/fubai/Documents/subl work/自贸区sql.sql",
+				"/C/Users/fubai/Desktop/崩坏世界的传奇大冒险.txt",
+				"/D/php/php.ini",
+				"/C/Users/fubai/Desktop/自贸区/前端/front/commentation/README.md",
+				"/C/Users/fubai/Desktop/ï¿½ï¿½Ã³ï¿½ï¿½",
+				"/D/IDEA/WorkSpace/sime_bs/.gitignore",
+				"/C/Users/fubai/Desktop/自贸区/前端/front/README.md",
+				"/C/Users/fubai/Desktop/自贸区/前端/front/.gitignore",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/Application/Home/Controller/UserController.class.php",
+				"/C/Users/fubai/Desktop/SpringBootTest/pom.xml",
+				"/C/Users/fubai/Desktop/SpringBootTest/.gitignore",
+				"/C/Users/fubai/Desktop/config.php",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/Application/Common/Conf/config.php",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/Application/index.html",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/Application/README.md",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/index.php",
+				"/C/Users/fubai/Desktop/自贸区/李岩/李岩-自贸区/来源分布.html",
+				"/C/Users/fubai/Desktop/自贸区/李岩/李岩-自贸区/source.js",
+				"/C/Users/fubai/Desktop/自贸区/曹圣宇/commentation/README.md",
+				"/C/Python27/Lib/site-packages/lxml/etree.pyd",
+				"/C/Users/fubai/Desktop/requiremrnt.txt",
+				"/D/mysql-5.6/my-default.ini"
+			],
+			"find":
+			{
+				"height": 51.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"hot",
+					"  ",
+					"  `type",
+					"  ",
+					"自贸区",
+					"自贸区为外资",
+					"建设迈向崇高目标",
+					"上海自贸区建设迈向崇高目标",
+					"周汉民:上海自贸区建设迈向崇高目标",
+					"registe",
+					"registe_globals",
+					"username"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\fubai\\Documents\\subl work"
+				},
+				{
+					"path": "C:\\wamp64\\www\\front"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 51.0
+			},
+			"input":
+			{
+				"height": 59.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,785,327,46,1713",
+			"project": "",
+			"replace":
+			{
+				"height": 98.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 250.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
